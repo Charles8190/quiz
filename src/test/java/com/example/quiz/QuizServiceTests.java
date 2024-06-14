@@ -155,4 +155,10 @@ public class QuizServiceTests {
 		System.out.println(map);
 
 	}
+	
+	@Test
+	public void gitTest() {
+		System.out.println("=======");
+		
+	}
 }
